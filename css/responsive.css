@@ -34,5 +34,15 @@
   
   
 }}
+
+ /* Other */
+@media only screen and (max-width: 750px) {
+    body {
+       font-size: 85%;
+    }
+
+      #logo h1 { 
+      height: 35px;
+      width: 35px;}
       
       
