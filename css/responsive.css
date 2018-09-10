@@ -28,7 +28,7 @@
    #social { position: absolute;
       top: 72px;}
       
-      .col-s-3 {p -moz-column-count: 3
+      .col-s-3 {p -moz-column-count: 3;
   -webkit-column-count: 3;
   column-count: 3;
   
