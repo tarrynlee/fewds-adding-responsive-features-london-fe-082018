@@ -37,12 +37,12 @@
 
  /* Other */
 @media only screen and (max-width: 750px) {
-    body {
-       font-size: 85%;
+    #navbar nav a {
+       font-size: 0.9em;
     }
 
-      #logo h1 { 
-      height: 35px;
-      width: 35px;}
-      
-      
+   .col-3 p {-moz-column-count: 1;
+  -webkit-column-count: 1;
+  column-count: 1;}
+}
+
